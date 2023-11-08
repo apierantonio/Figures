@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/FML/classes_gen/
+/languages/FML/generator/classes_gen/
